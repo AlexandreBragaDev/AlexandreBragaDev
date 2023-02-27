@@ -1,15 +1,8 @@
 # Finally, you find me ! 👋
 
-ready to rumble ?!
+## Ready to rumble ?!
 
 
-### 👨 I'm **_Alexandre_**, a freshly graduated full-stack developer student from Philiance (November 2022).
-
-◽ Programming languages :  HTML5, CSS3, SCSS, Javascript, SQL, PHP8, Twig
-
-◽ Libraries : ReactJs, Symfony6
-
-◽ Languages :  French (native), English B2, Portuguese
 
 🗼 I'm based near Paris Fr
 
